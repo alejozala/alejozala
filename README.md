@@ -25,4 +25,6 @@
 
 
 ## ⭐ My Github Stats :)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejozala&show_icons=true)
+  <a href="https://github.com/alejozala">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejozala&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejozala&layout=compact&langs_count=7&theme=dracula"/>
