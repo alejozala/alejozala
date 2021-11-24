@@ -5,11 +5,11 @@
 
 
 <p align="left"> 
- I am eighteen years old, currently a computer science student at PUCSP.
+ Computer science student at PUCSP.
 
  I am begginer, learning how to code!
 
- I am from São Paulo, Brazil, I lived in the United States for a year (2018 - 2019) as an exchange student, in Ohio.
+ From São Paulo, Brazil, I lived in the United States for a year (2018 - 2019) as an exchange student, in Ohio.
 
 
 
