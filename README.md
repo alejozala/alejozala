@@ -21,9 +21,8 @@
 
 [![Linkedin: Alexandre Silveira Jozala](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-silveira-jozala-13984b1a1/)](https://www.linkedin.com/in/alexandre-silveira-jozala-13984b1a1/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.s.jozala@gmail.com)](mailto:alexandre.s.jozala@gmail.com)
-[![GitHub alejozala]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/alejozala)
- <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/a.jozala/"/></a>
+[![GitHub alejozala](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/alejozala)
+
 
 ## ⭐ My Github Stats :)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejozala&show_icons=true)
