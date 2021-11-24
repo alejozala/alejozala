@@ -18,10 +18,12 @@
 
 
 <h3> :earth_americas: &nbsp;Where you can find me: </h3> 
+<div> 
+  <a href = "mailto:alexandre.s.jozala@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alejozala" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/a.jozala/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/alejozala" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
-[![Linkedin: Alexandre Silveira Jozala](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejozala/)](https://www.linkedin.com/in/alejozala/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.s.jozala@gmail.com)](mailto:alexandre.s.jozala@gmail.com)
-[![GitHub alejozala](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/alejozala)
 
 
 ## ⭐ My Github Stats :)
